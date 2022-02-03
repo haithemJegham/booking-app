@@ -1,6 +1,8 @@
 import User from "../models/user";
 import jwt from "jsonwebtoken";
 
+// const User = require('../models/user')
+// const jwt = require("jsonwebtoken")
 // export const showMessage = (req, res) => {
 //   res
 //     .status(200)
